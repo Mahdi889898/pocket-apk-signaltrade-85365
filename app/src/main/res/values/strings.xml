@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">سیگنال ترید</string>
+
+    <!-- Navigation -->
+    <string name="nav_signals">نمودار و سیگنال</string>
+    <string name="nav_bc_terminal">ترمینال BC.Game</string>
+    <string name="nav_scanner">اسکنر و تاریخچه</string>
+
+    <!-- Header & Connection -->
+    <string name="bc_contract_url_label">bc.game/trading/contract</string>
+    <string name="status_connected_live">متصل به بازار زنده</string>
+    <string name="status_connecting">در حال اتصال…</string>
+    <string name="status_offline_retry">خطا در دریافت قیمت زنده</string>
+    <string name="action_refresh">به‌روزرسانی</string>
+    <string name="action_retry">تلاش مجدد</string>
+
+    <!-- Signals Screen -->
+    <string name="search_pair_placeholder">جستجوی ارز (مثلاً BTC، SOL، TON)…</string>
+    <string name="btn_analyze_ai">تحلیل هوشمند نقاط Buy و Sell</string>
+    <string name="btn_analyzing_ai">هوش مصنوعی در حال تحلیل کندل‌ها…</string>
+    <string name="btn_open_in_bcgame">معامله در BC.Game</string>
+    <string name="label_entry_price">نقطه ورود (Entry)</string>
+    <string name="label_stop_loss">حد ضرر (Stop Loss)</string>
+    <string name="label_take_profit_1">حد سود ۱ (TP1)</string>
+    <string name="label_take_profit_2">حد سود ۲ (TP2)</string>
+    <string name="label_confidence">درصد اطمینان</string>
+    <string name="label_risk_reward">نسبت ریسک به ریوارد</string>
+    <string name="label_leverage">اهرم پیشنهادی</string>
+    <string name="label_ai_reasoning">دلایل تکنیکال هوش مصنوعی</string>
+    <string name="label_chart_markers">نقاط کلیدی Buy / Sell روی نمودار</string>
+    <string name="label_indicators">اندیکاتورهای زنده</string>
+    <string name="label_24h_high">سقف ۲۴ساعت</string>
+    <string name="label_24h_low">کف ۲۴ساعت</string>
+    <string name="label_support">حمایت</string>
+    <string name="label_resistance">مقاومت</string>
+    <string name="signal_buy">خرید (BUY / LONG)</string>
+    <string name="signal_sell">فروش (SELL / SHORT)</string>
+    <string name="signal_hold">انتظار (HOLD)</string>
+    <string name="empty_signal_hint">برای دریافت نقاط دقیق خرید، فروش، حد سود و حد ضرر با هوش مصنوعی دکمه تحلیل را بزنید.</string>
+    <string name="disclaimer_text">توجه: سیگنال‌های هوش مصنوعی صرفاً جنبه تحلیلی و آموزشی دارند و تضمین سود نیستند. مدیریت سرمایه را رعایت کنید.</string>
+
+    <!-- BC.Game Terminal Screen -->
+    <string name="bc_terminal_title">ترمینال قراردادهای BC.Game</string>
+    <string name="btn_scan_webview_ai">اسکن هوشمند نمودار BC.Game (AI)</string>
+    <string name="btn_scanning_webview">در حال تحلیل تصویر ترمینال…</string>
+    <string name="bc_webview_hint">صفحه رسمی bc.game/trading/contract — هر لحظه دکمه اسکن هوشمند را بزنید تا نقاط Buy/Sell را تشخیص دهد.</string>
+    <string name="cd_web_back">بازگشت در مرورگر</string>
+    <string name="cd_web_forward">جلو رفتن در مرورگر</string>
+    <string name="cd_web_reload">بارگذاری مجدد صفحه</string>
+    <string name="cd_web_home">بازگشت به صفحه قرارداد BC.Game</string>
+    <string name="cd_close_overlay">بستن پنجره تحلیل</string>
+
+    <!-- Scanner & History Screen -->
+    <string name="scanner_title">اسکنر هوشمند ارزها</string>
+    <string name="scanner_subtitle">بررسی هم‌زمان بازار قراردادها برای یافتن بهترین نقاط ورود خرید و فروش</string>
+    <string name="btn_run_scanner">اسکن هوشمند ۸ ارز برتر</string>
+    <string name="btn_scanning_market">در حال تحلیل هم‌زمان بازار…</string>
+    <string name="tab_ai_scanner">اسکنر بازار</string>
+    <string name="tab_signal_history">تاریخچه سیگنال‌ها</string>
+    <string name="filter_all">همه</string>
+    <string name="filter_buy">خرید (Buy)</string>
+    <string name="filter_sell">فروش (Sell)</string>
+    <string name="empty_scanner_hint">برای پیدا کردن قوی‌ترین سیگنال‌های خرید و فروش بین ارزهای برتر، اسکنر هوشمند را اجرا کنید.</string>
+    <string name="empty_history_hint">هنوز سیگنالی ثبت نشده است. با تحلیل هر ارز یا اسکن صفحه BC.Game، تاریخچه در اینجا نمایش داده می‌شود.</string>
+    <string name="source_market_ai">تحلیل کندل زنده</string>
+    <string name="source_bc_vision_ai">اسکن تصویری BC.Game</string>
+</resources>

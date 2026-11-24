@@ -1,0 +1,6 @@
+{
+  "name": "سیگنال ترید",
+  "description": "تحلیل هوشمند قراردادهای ارز دیجیتال متصل به bc.game با تشخیص نقاط خرید و فروش توسط هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
